@@ -1,7 +1,6 @@
 const modalOverlay = document.querySelector('.modal-overlay')
 const receitas2 = document.querySelectorAll('.receita')
 const modal = document.querySelector('.modal');
-const tituloContent = document.querySelector('.tituloContent').value
 
 for(let receita of receitas2){
 
